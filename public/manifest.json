@@ -1,0 +1,13 @@
+{
+  "name": "Places Around",
+  "short_name": "Places Around",
+  "description": "Application that helps you discover new places around you",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#3c948b",
+  "background_color": "#3c948b",
+  "icons": [
+    { "src": "icon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "icon-512.png", "type": "image/png", "sizes": "512x512" }
+  ]
+}
